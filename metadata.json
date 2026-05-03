@@ -1,0 +1,8 @@
+{
+  "name": "AgriSense AI",
+  "description": "Real-Time Crop Disease Detection + Multi-Agent Advisory System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
